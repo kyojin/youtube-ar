@@ -139,6 +139,15 @@
 			"Rev": "7f63635930405899bdacf8c74f8688c8dcb98ffc"
 		},
 		{
+			"ImportPath": "github.com/certifi/gocertifi",
+			"Comment": "2017.07.27",
+			"Rev": "3fd9e1adb12b72d2f3f82191d49be9b93c69f67c"
+		},
+		{
+			"ImportPath": "github.com/getsentry/raven-go",
+			"Rev": "1452f6376ddb15c546b6d7567e1d9518765391b5"
+		},
+		{
 			"ImportPath": "github.com/go-ini/ini",
 			"Comment": "v1.28.2-1-gc787282",
 			"Rev": "c787282c39ac1fc618827141a1f762240def08a3"
